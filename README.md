@@ -1,7 +1,7 @@
 
 # Paulo Morales Castillo
  
-Data engineer in Berlin. I build data setups end to end, from the first ingestion job to the tool people use every day.
+Analytics/Data engineer in Berlin. I build data setups end to end, from the first ingestion job to the tool people use every day.
  
 ## What I do
  
